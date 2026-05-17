@@ -80,8 +80,6 @@ Used Power Query to clean ~7,500 sales records:
 ├── screenshots/
 │   ├── overview.png
 │   ├── performance-analysis.png
-│   ├── data-model.png
-│   └── power-query.png
 ├── Elite_Store_Sales_Dashboard.pbix
 └── README.md
 ```
