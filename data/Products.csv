@@ -1,0 +1,51 @@
+﻿ProductID,ProductName,Category,Brand,Cost,Price
+P001,iPhone 15 Pro Max,Mobile Phones,Apple,4999,5999
+P002,iPhone 15,Mobile Phones,Apple,3500,4299
+P003,iPhone 14,Mobile Phones,Apple,2800,3499
+P004,Samsung Galaxy S24,Mobile Phones,Samsung,3800,4599
+P005,Samsung Galaxy A54,Mobile Phones,Samsung,1200,1599
+P006,Huawei P60 Pro,Mobile Phones,Huawei,3200,3999
+P007,Xiaomi 14,Mobile Phones,Xiaomi,2500,2999
+P008,MacBook Pro 14,Laptops,Apple,7500,8999
+P009,MacBook Air M2,Laptops,Apple,4200,4999
+P010,Dell XPS 15,Laptops,Dell,5800,6999
+P011,HP Pavilion 15,Laptops,HP,2200,2799
+P012,Lenovo ThinkPad X1,Laptops,Lenovo,6000,7299
+P013,ASUS ZenBook 14,Laptops,ASUS,3500,4299
+P014,iPad Pro 12.9,Tablets,Apple,4500,5499
+P015,iPad Air,Tablets,Apple,2400,2899
+P016,Samsung Galaxy Tab S9,Tablets,Samsung,3000,3699
+P017,Huawei MatePad,Tablets,Huawei,1500,1899
+P018,AirPods Pro 2,Accessories,Apple,750,999
+P019,AirPods Max,Accessories,Apple,1800,2299
+P020,Sony WH-1000XM5,Accessories,Sony,1200,1499
+P021,Galaxy Buds 2 Pro,Accessories,Samsung,650,849
+P022,Apple Watch Series 9,Accessories,Apple,1400,1799
+P023,Apple Watch Ultra 2,Accessories,Apple,3000,3699
+P024,"Samsung 65"" QLED",TVs,Samsung,3200,3999
+P025,"Samsung 55"" Crystal",TVs,Samsung,1800,2299
+P026,"LG 65"" OLED C3",TVs,LG,5500,6799
+P027,"Sony 55"" Bravia",TVs,Sony,2800,3499
+P028,"Hisense 75"" ULED",TVs,Hisense,3500,4299
+P029,LG Side-by-Side Fridge,Home Appliances,LG,4200,4999
+P030,Samsung 4-Door Fridge,Home Appliances,Samsung,5500,6499
+P031,LG Washer 12kg,Home Appliances,LG,2200,2699
+P032,Samsung Washer 9kg,Home Appliances,Samsung,1800,2199
+P033,LG Split AC 18K,Home Appliances,LG,2200,2699
+P034,Carrier AC 24K,Home Appliances,Carrier,2800,3299
+P035,Samsung Microwave,Home Appliances,Samsung,650,849
+P036,Braun Pro Blender,Home Appliances,Braun,450,599
+P037,PlayStation 5,Gaming,Sony,1800,2299
+P038,Xbox Series X,Gaming,Microsoft,1700,2199
+P039,Nintendo Switch OLED,Gaming,Nintendo,1200,1499
+P040,PS5 DualSense,Gaming,Sony,250,349
+P041,Canon EOS R6,Cameras,Canon,9000,10999
+P042,Sony Alpha A7 IV,Cameras,Sony,9500,11499
+P043,GoPro Hero 12,Cameras,GoPro,1500,1899
+P044,HP LaserJet Pro,Printers,HP,850,1099
+P045,Canon PIXMA,Printers,Canon,450,599
+P046,Epson EcoTank,Printers,Epson,900,1199
+P047,Apple 20W Charger,Accessories,Apple,80,119
+P048,Lightning Cable,Accessories,Apple,60,89
+P049,Logitech MX Mouse,Accessories,Logitech,280,399
+P050,Apple Magic Keyboard,Accessories,Apple,450,599
