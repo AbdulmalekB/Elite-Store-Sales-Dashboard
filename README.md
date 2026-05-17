@@ -4,6 +4,8 @@ An interactive Power BI dashboard analyzing sales performance for a fictional el
 
 ![Dashboard Preview](screenshots/overview.png)
 
+![Dashboard Preview2](screenshots/Screenshot_1.png)
+
 ## 📊 Project Overview
 
 **Business Scenario:**
